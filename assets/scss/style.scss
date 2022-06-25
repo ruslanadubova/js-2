@@ -1,0 +1,8 @@
+@use "../../libs/normalize.css/normalize.scss";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+@use "components/header/header";
+
+@use "components/footer/footer";
